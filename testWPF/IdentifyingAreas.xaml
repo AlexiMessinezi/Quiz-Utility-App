@@ -1,0 +1,90 @@
+﻿<Window x:Class="testWPF.IdentifyingAreas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:testWPF"
+        mc:Ignorable="d"
+        Title="IdentifyingAreas" Height="450" Width="800">
+    <Grid Background="#FF0D84B7">
+        <Label Content="Current Score:" HorizontalAlignment="Left" Margin="296,16,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="22"/>
+        <Label x:Name="lblScore" Content="0" HorizontalAlignment="Left" Margin="448,17,0,0" VerticalAlignment="Top" AutomationProperties.Name="0" FontWeight="Bold" FontSize="22"/>
+        <Button x:Name="btnReset" Content="Reset" HorizontalAlignment="Left" Margin="760,16,0,0" VerticalAlignment="Top" Width="41" Click="btnReset_Click" FontWeight="Bold"/>
+        <Label Content="Hint:" HorizontalAlignment="Left" Margin="15,16,0,0" VerticalAlignment="Top" FontSize="22" FontWeight="Bold"/>
+        <Label Content="Possible Answers:" HorizontalAlignment="Left" Margin="539,16,0,0" VerticalAlignment="Top" FontSize="22" FontWeight="Bold"/>
+        <Label x:Name="lblHint1" Content="Label" HorizontalAlignment="Left" Margin="15,75,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Label x:Name="lblHint2" Content="Label" HorizontalAlignment="Left" Margin="15,145,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Label x:Name="lblHint3" Content="Label" HorizontalAlignment="Left" Margin="15,215,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Label x:Name="lblHint4" Content="Label" HorizontalAlignment="Left" Margin="15,285,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Label x:Name="lblAns1" Content="Label" HorizontalAlignment="Left" Margin="542,60,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Label x:Name="lblAns2" Content="Label" HorizontalAlignment="Left" Margin="542,100,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Label x:Name="lblAns3" Content="Label" HorizontalAlignment="Left" Margin="542,140,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Label x:Name="lblAns4" Content="Label" HorizontalAlignment="Left" Margin="542,180,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Label x:Name="lblAns5" Content="Label" HorizontalAlignment="Left" Margin="542,220,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Label x:Name="lblAns6" Content="Label" HorizontalAlignment="Left" Margin="542,260,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Label x:Name="lblAns7" Content="Label" HorizontalAlignment="Left" Margin="542,300,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Answer for A:" HorizontalAlignment="Left" Margin="60,350,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label Content="Answer for B:" HorizontalAlignment="Left" Margin="240,350,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label Content="Answer for C:" HorizontalAlignment="Left" Margin="420,350,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label Content="Answer for D:" HorizontalAlignment="Left" Margin="600,350,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <ComboBox x:Name="cmbAns1" HorizontalAlignment="Left" Margin="160,352,0,0" VerticalAlignment="Top" Width="45" FontWeight="Bold">
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+            <ComboBoxItem Content="6"/>
+            <ComboBoxItem Content="7"/>
+        </ComboBox>
+        <ComboBox x:Name="cmbAns2" HorizontalAlignment="Left" Margin="340,352,0,0" VerticalAlignment="Top" Width="45" FontWeight="Bold">
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+            <ComboBoxItem Content="6"/>
+            <ComboBoxItem Content="7"/>
+        </ComboBox>
+        <ComboBox x:Name="cmbAns3" HorizontalAlignment="Left" Margin="520,352,0,0" VerticalAlignment="Top" Width="45" FontWeight="Bold">
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+            <ComboBoxItem Content="6"/>
+            <ComboBoxItem Content="7"/>
+        </ComboBox>
+        <ComboBox x:Name="cmbAns4" HorizontalAlignment="Left" Margin="700,352,0,0" VerticalAlignment="Top" Width="45" FontWeight="Bold">
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+            <ComboBoxItem Content="6"/>
+            <ComboBoxItem Content="7"/>
+        </ComboBox>
+        <Button x:Name="btnCheckAns" Content="Check Answer" HorizontalAlignment="Left" Margin="405,399,0,0" VerticalAlignment="Top" Click="btnCheckAns_Click" FontWeight="Bold" Width="85.39"/>
+        <Button x:Name="btnNextQuestion" Content="Next Question" HorizontalAlignment="Left" Margin="319,399,0,0" VerticalAlignment="Top" Click="btnNextQuestion_Click" FontWeight="Bold"/>
+        <Button x:Name="btnBack" Content="Back" HorizontalAlignment="Left" Margin="65,399,0,0" VerticalAlignment="Top" FontWeight="Bold" Click="btnBack_Click" Width="38"/>
+        <Button x:Name="btnExit" Content="Exit" HorizontalAlignment="Left" Margin="15,399,0,0" VerticalAlignment="Top" FontWeight="Bold" Width="45" Click="btnExit_Click"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="1,48,0,0" VerticalAlignment="Top" Background="Black" Height="2" Width="803"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="1,55,0,0" VerticalAlignment="Top" Background="Black" Width="248" Height="2"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="1,125,0,0" VerticalAlignment="Top" Background="Black" Width="248" Height="2"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="1,195,0,0" VerticalAlignment="Top" Background="Black" Width="248" Height="2"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="1,265,0,0" VerticalAlignment="Top" Background="Black" Width="248" Height="2"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="1,335,0,0" VerticalAlignment="Top" Background="Black" Width="248" Height="2"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="249,55,0,0" VerticalAlignment="Top" Background="Black" Width="2" Height="282"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="1,55,0,0" VerticalAlignment="Top" Background="Black" Width="2" Height="282"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="527,55,0,0" VerticalAlignment="Top" Background="Black" Width="248" Height="2"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="527,95,0,0" VerticalAlignment="Top" Background="Black" Width="248" Height="2"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="527,135,0,0" VerticalAlignment="Top" Background="Black" Width="248" Height="2"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="527,175,0,0" VerticalAlignment="Top" Background="Black" Width="248" Height="2"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="527,215,0,0" VerticalAlignment="Top" Background="Black" Width="248" Height="2"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="527,255,0,0" VerticalAlignment="Top" Background="Black" Width="248" Height="2"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="527,295,0,0" VerticalAlignment="Top" Background="Black" Width="248" Height="2"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="527,335,0,0" VerticalAlignment="Top" Background="Black" Width="248" Height="2"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="527,57,0,0" VerticalAlignment="Top" Background="Black" Width="2" Height="280"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="775,55,0,0" VerticalAlignment="Top" Background="Black" Width="2" Height="282"/>
+        <Button x:Name="btnHelp" Content="Help" HorizontalAlignment="Left" Margin="722,399,0,0" VerticalAlignment="Top" Width="42" FontWeight="Bold" Click="btnHelp_Click"/>
+    </Grid>
+</Window>

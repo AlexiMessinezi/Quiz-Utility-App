@@ -1,0 +1,1024 @@
+﻿[LEVEL0]DEWEY DECIMAL CLASSIFICATION
+[LEVEL1]000 - General knowledge
+[LEVEL2]000 - General knowledge
+[LEVEL3]000 - General knowledge
+[LEVEL3]001 - Knowledge
+[LEVEL3]002 - The book (writing, libraries, and book-related topics)
+[LEVEL3]003 - Systems
+[LEVEL3]004 - Data processing and computer science
+[LEVEL3]005 - Computer programming, programs and data
+[LEVEL3]006 - Special computer methods (e.g. AI, multimedia, VR)[4]
+[LEVEL2]010 - Bibliographies
+[LEVEL3]010 - Bibliography
+[LEVEL3]011 - Bibliographies
+[LEVEL3]012 - Bibliographies of individuals
+[LEVEL3]014 - Bibliographies of anonymous and pseudonymous works
+[LEVEL3]015 - Bibliographies of works from specific places
+[LEVEL3]016 - Bibliographies of works on specific subjects
+[LEVEL3]017 - General subject catalogs
+[LEVEL3]018 - Catalogs arranged by author, date, etc.
+[LEVEL3]019 - Dictionary catalogs
+[LEVEL2]020 - Library & information sciences
+[LEVEL3]020 - Library & information sciences
+[LEVEL3]021 - Library relationships (with archives, information centers, etc.)
+[LEVEL3]022 - Administration of physical plant
+[LEVEL3]023 - Personnel management
+[LEVEL3]025 - Library operations
+[LEVEL3]026 - Libraries for specific subjects
+[LEVEL3]027 - General libraries
+[LEVEL3]028 - Reading and use of other information media
+[LEVEL2]030 - Encyclopedias & books of facts
+[LEVEL3]030 - General encyclopedic works
+[LEVEL3]031 - Encyclopedias in American English
+[LEVEL3]032 - Encyclopedias in English
+[LEVEL3]033 - Encyclopedias in other Germanic languages
+[LEVEL3]034 - Encyclopedias in French, Occitan, and Catalan
+[LEVEL3]035 - Encyclopedias in Italian, Romanian, and related languages
+[LEVEL3]036 - Encyclopedias in Spanish and Portuguese
+[LEVEL3]037 - Encyclopedias in Slavic languages
+[LEVEL3]038 - Encyclopedias in Scandinavian languages
+[LEVEL3]039 - Encyclopedias in other languages
+[LEVEL2]050 - Magazines, journals & serials
+[LEVEL3]050 - General serial publications
+[LEVEL3]051 - Serials in American English
+[LEVEL3]052 - Serials in English
+[LEVEL3]053 - Serials in other Germanic languages
+[LEVEL3]054 - Serials in French, Occitan, and Catalan
+[LEVEL3]055 - Serials in Italian, Romanian, and related languages
+[LEVEL3]056 - Serials in Spanish and Portuguese
+[LEVEL3]057 - Serials in Slavic languages
+[LEVEL3]058 - Serials in Scandinavian languages
+[LEVEL3]059 - Serials in other languages
+[LEVEL2]060 - Associations, organizations & museums
+[LEVEL3]060 - General organizations & museum science
+[LEVEL3]061 - Organizations in North America
+[LEVEL3]062 - Organizations in British Isles; in England
+[LEVEL3]063 - Organizations in central Europe; in Germany
+[LEVEL3]064 - Organizations in France and Monaco
+[LEVEL3]065 - Organizations in Italy and adjacent islands
+[LEVEL3]066 - Organizations in Iberian peninsula and adjacent islands
+[LEVEL3]067 - Organizations in eastern Europe; in Russia
+[LEVEL3]068 - Organizations in other geographic areas
+[LEVEL3]069 - Museum science
+[LEVEL2]070 - News media, journalism & publishing
+[LEVEL3]070 - News media, journalism & publishing
+[LEVEL3]071 - Newspapers in North America
+[LEVEL3]072 - Newspapers in British Isles; in England
+[LEVEL3]073 - Newspapers in central Europe; in Germany
+[LEVEL3]074 - Newspapers in France and Monaco
+[LEVEL3]075 - Newspapers in Italy and adjacent islands
+[LEVEL3]076 - Newspapers in Iberian peninsula and adjacent islands
+[LEVEL3]077 - Newspapers in eastern Europe; in Russia
+[LEVEL3]078 - Newspapers in Scandinavia
+[LEVEL3]079 - Newspapers in other geographic areas
+[LEVEL2]080 - Quotations
+[LEVEL3]080 - General collections
+[LEVEL3]081 - Collections in American English
+[LEVEL3]082 - Collections in English
+[LEVEL3]083 - Collections in other Germanic languages
+[LEVEL3]084 - Collections in French, Occitan, Catalan
+[LEVEL3]085 - Collections in Italian, Romanian, and related languages
+[LEVEL3]086 - Collections in Spanish and Portuguese
+[LEVEL3]087 - Collections in Slavic languages
+[LEVEL3]088 - Collections in Scandinavian languages
+[LEVEL3]089 - Collections in other languages
+[LEVEL2]090 - Manuscripts & rare books
+[LEVEL3]090 - Manuscripts & rare books
+[LEVEL3]091 - Manuscripts
+[LEVEL3]092 - Block books
+[LEVEL3]093 - Incunabula
+[LEVEL3]094 - Printed books
+[LEVEL3]095 - Books notable for bindings
+[LEVEL3]096 - Books notable for illustrations
+[LEVEL3]097 - Books notable for ownership or origin
+[LEVEL3]098 - Prohibited works, forgeries, and hoaxes
+[LEVEL3]099 - Books notable for format
+[LEVEL1]100 - Philosophy & psychology
+[LEVEL2]100 - Philosophy
+[LEVEL3]100 - Philosophy & psychology
+[LEVEL3]101 - Theory of philosophy
+[LEVEL3]102 - Miscellany
+[LEVEL3]103 - Dictionaries and encyclopedias
+[LEVEL3]104 - Essays
+[LEVEL3]105 - Serial publications
+[LEVEL3]106 - Organizations and management
+[LEVEL3]107 - Education, research, related topics of philosophy
+[LEVEL3]108 - Groups of people
+[LEVEL3]109 - History and collected biography
+[LEVEL2]110 - Metaphysics
+[LEVEL3]110 - Metaphysics
+[LEVEL3]111 - Ontology
+[LEVEL3]112 - Methodology
+[LEVEL3]113 - Cosmology (Philosophy of nature)
+[LEVEL3]114 - Space
+[LEVEL3]115 - Time
+[LEVEL3]116 - Change
+[LEVEL3]117 - Structure
+[LEVEL3]118 - Force and energy
+[LEVEL3]119 - Number and quantity
+[LEVEL2]120 - Epistemology
+[LEVEL3]120 - Epistemology, causation & humankind
+[LEVEL3]121 - Epistemology (Theory of knowledge)
+[LEVEL3]122 - Causation
+[LEVEL3]123 - Determinism and indeterminism
+[LEVEL3]124 - Teleology
+[LEVEL3]125 - Infinity
+[LEVEL3]126 - The self
+[LEVEL3]127 - The unconscious and the subconscious
+[LEVEL3]128 - Humankind
+[LEVEL3]129 - Origin and destiny of individual souls
+[LEVEL2]130 - Parapsychology & occultism
+[LEVEL3]130 - Parapsychology & occultism
+[LEVEL3]131 - Parapsychological and occult methods for achieving well-being, happiness, success
+[LEVEL3]132 - Mental derangements
+[LEVEL3]133 - Specific topics in parapsychology and occultism
+[LEVEL3]134 - Mesmerism and Clairvoyance
+[LEVEL3]135 - Dreams and mysteries
+[LEVEL3]136 - Mental characteristics
+[LEVEL3]137 - Divinatory graphology
+[LEVEL3]138 - Physiognomy
+[LEVEL3]139 - Phrenology
+[LEVEL2]140 - Philosophical schools of thought
+[LEVEL3]140 - Specific philosophical schools
+[LEVEL3]141 - Idealism and related systems and doctrines
+[LEVEL3]142 - Critical philosophy
+[LEVEL3]143 - Bergsonism and intuitionism
+[LEVEL3]144 - Humanism and related systems and doctrines
+[LEVEL3]145 - Sensationalism
+[LEVEL3]146 - Naturalism and related systems and doctrines
+[LEVEL3]147 - Pantheism and related systems and doctrines
+[LEVEL3]148 - Dogmatism, eclecticism, liberalism, syncretism, and traditionalism
+[LEVEL3]149 - Other philosophical systems and doctrines
+[LEVEL2]150 - Psychology
+[LEVEL3]150 - Psychology
+[LEVEL3]151 - Intellect
+[LEVEL3]152 - Sensory perception, movement, emotions, and physiological drives
+[LEVEL3]153 - Conscious mental processes and intelligence
+[LEVEL3]154 - Subconscious and altered states and processes
+[LEVEL3]155 - Differential and developmental psychology
+[LEVEL3]156 - Comparative psychology
+[LEVEL3]157 - Emotions
+[LEVEL3]158 - Applied psychology
+[LEVEL3]159 - Will
+[LEVEL2]160 - Logic
+[LEVEL3]160 - Logic
+[LEVEL3]161 - Induction
+[LEVEL3]162 - Deduction
+[LEVEL3]165 - Fallacies and sources of error
+[LEVEL3]166 - Syllogisms
+[LEVEL3]167 - Hypotheses
+[LEVEL3]168 - Argument and persuasion
+[LEVEL3]169 - Analogy
+[LEVEL2]170 - Ethics
+[LEVEL3]170 - Ethics
+[LEVEL3]171 - Ethical systems
+[LEVEL3]172 - Political ethics
+[LEVEL3]173 - Ethics of family relationships
+[LEVEL3]174 - Occupational ethics
+[LEVEL3]175 - Ethics of recreation, leisure, public performances, communication
+[LEVEL3]176 - Ethics of sex and reproduction
+[LEVEL3]177 - Ethics of social relations
+[LEVEL3]178 - Ethics of consumption
+[LEVEL3]179 - Other ethical norms
+[LEVEL2]180 - Ancient, medieval & eastern philosophy
+[LEVEL3]180 - Ancient, medieval & eastern philosophy
+[LEVEL3]181 - Eastern philosophy
+[LEVEL3]182 - Pre-Socratic Greek philosophies
+[LEVEL3]183 - Sophistic, Socratic, related Greek philosophies
+[LEVEL3]184 - Platonic philosophy
+[LEVEL3]185 - Aristotelian philosophy
+[LEVEL3]186 - Skeptic and Neoplatonic philosophies
+[LEVEL3]187 - Epicurean philosophy
+[LEVEL3]188 - Stoic philosophy
+[LEVEL3]189 - Medieval Western philosophy
+[LEVEL2]190 - Modern western philosophy
+[LEVEL3]190 - Modern western philosophy
+[LEVEL3]191 - Philosophy of the United States and Canada
+[LEVEL3]192 - Philosophy of the British Isles
+[LEVEL3]193 - Philosophy of Germany and Austria
+[LEVEL3]194 - Philosophy of France
+[LEVEL3]195 - Philosophy of Italy
+[LEVEL3]196 - Philosophy of Spain and Portugal
+[LEVEL3]197 - Philosophy of Russia
+[LEVEL3]198 - Philosophy of Scandinavia and Finland
+[LEVEL3]199 - Philosophy in other geographic areas
+[LEVEL1]200 - Religion
+[LEVEL2]200 - Religion
+[LEVEL3]200 - Religion
+[LEVEL3]201 - Religious mythology, general classes of religion, interreligious relations and attitudes, social theology
+[LEVEL3]202 - Doctrines
+[LEVEL3]203 - Public worship and other practices
+[LEVEL3]204 - Religious experience, life, practice
+[LEVEL3]205 - Religious ethics
+[LEVEL3]206 - Leaders and organization
+[LEVEL3]207 - Missions and religious education
+[LEVEL3]208 - Sources
+[LEVEL3]209 - Sects and reform movements
+[LEVEL2]210 - Philosophy & theory of religion
+[LEVEL3]210 - Philosophy & theory of religion
+[LEVEL3]211 - Concepts of God
+[LEVEL3]212 - Existence, ways of knowing God, attributes of God
+[LEVEL3]213 - Creation
+[LEVEL3]214 - Theodicy
+[LEVEL3]215 - Science and religion
+[LEVEL3]218 - Humankind
+[LEVEL3]219 - No longer used—formerly Analogies
+[LEVEL2]220 - The Bible
+[LEVEL3]220 - Bible
+[LEVEL3]221 - Old Testament (Tanakh)
+[LEVEL3]222 - Historical books of Old Testament
+[LEVEL3]223 - Poetic books of Old Testament
+[LEVEL3]224 - Prophetic books of Old Testament
+[LEVEL3]225 - New Testament
+[LEVEL3]226 - Gospels and Acts
+[LEVEL3]227 - Epistles
+[LEVEL3]228 - Revelation (Apocalypse)
+[LEVEL3]229 - Apocrypha, pseudepigrapha, and inter-testamental works
+[LEVEL2]230 - Christianity & Christian theology
+[LEVEL3]230 - Christianity & Christian theology
+[LEVEL3]231 - God
+[LEVEL3]232 - Jesus Christ and his family
+[LEVEL3]233 - Humankind
+[LEVEL3]234 - Salvation and grace
+[LEVEL3]235 - Spiritual beings
+[LEVEL3]236 - Eschatology
+[LEVEL3]238 - Creeds, confessions of faith, covenants, and catechisms
+[LEVEL3]239 - Apologetics and polemics
+[LEVEL2]240 - Christian practice & observance
+[LEVEL3]240 - Christian moral & devotional theology
+[LEVEL3]241 - Christian ethics
+[LEVEL3]242 - Devotional literature
+[LEVEL3]243 - Evangelistic writings for individuals and families
+[LEVEL3]246 - Use of art in Christianity
+[LEVEL3]247 - Church furnishings and related articles
+[LEVEL3]248 - Christian experience, practice, life
+[LEVEL3]249 - Christian observances in family life
+[LEVEL2]250 - Christian pastoral practice & religious orders
+[LEVEL3]250 - Christian orders & local church
+[LEVEL3]251 - Preaching (Homiletics)
+[LEVEL3]252 - Texts of sermons
+[LEVEL3]253 - Pastoral office and work (Pastoral theology)
+[LEVEL3]254 - Parish administration
+[LEVEL3]255 - Religious congregations and orders
+[LEVEL3]259 - Pastoral care of families, of specific groups of people
+[LEVEL2]260 - Christian organization, social work & worship
+[LEVEL3]260 - Social & ecclesiastical theology
+[LEVEL3]261 - Social theology and interreligious relations and attitudes
+[LEVEL3]262 - Ecclesiology
+[LEVEL3]263 - Days, times, places of religious observance
+[LEVEL3]264 - Public worship
+[LEVEL3]265 - Sacraments, other rites and acts
+[LEVEL3]266 - Missions
+[LEVEL3]267 - Associations for religious work
+[LEVEL3]268 - Religious education
+[LEVEL3]269 - Spiritual renewal
+[LEVEL2]270 - History of Christianity
+[LEVEL3]270 - History of Christianity & Christian church
+[LEVEL3]271 - Religious congregations and orders in church history
+[LEVEL3]272 - Persecutions in church history
+[LEVEL3]273 - Doctrinal controversies and heresies in general church history
+[LEVEL3]274 - Christianity in Europe
+[LEVEL3]275 - Christianity in Asia
+[LEVEL3]276 - Christianity in Africa
+[LEVEL3]277 - Christianity in North America
+[LEVEL3]278 - Christianity in South America
+[LEVEL3]279 - History of Christianity in other areas
+[LEVEL2]280 - Christian denominations
+[LEVEL3]280 - Christian denominations & sects
+[LEVEL3]281 - Early church and Eastern churches
+[LEVEL3]282 - Roman Catholic Church
+[LEVEL3]283 - Anglican churches
+[LEVEL3]284 - Protestant denominations of Continental origin and related body
+[LEVEL3]285 - Presbyterian churches, Reformed churches centered in America, Congregational churches
+[LEVEL3]286 - Baptist, Restoration Movement, Adventist churches
+[LEVEL3]287 - Methodist churches; churches related to Methodism
+[LEVEL3]289 - Other denominations and sects
+[LEVEL2]290 - Other religions
+[LEVEL3]290 - Other religions
+[LEVEL3]292 - Classical religion (Greek and Roman religion)
+[LEVEL3]293 - Germanic religion
+[LEVEL3]294 - Religions of Indic origin
+[LEVEL3]295 - Zoroastrianism (Mazdaism, Parseeism)
+[LEVEL3]296 - Judaism
+[LEVEL3]297 - Islam, Bábism and Baháʼí Faith
+[LEVEL3]299 - Religions not provided for elsewhere
+[LEVEL1]300 - Social sciences
+[LEVEL2]300 - Social sciences, sociology & anthropology
+[LEVEL3]300 - Social sciences
+[LEVEL3]301 - Sociology and anthropology
+[LEVEL3]302 - Social interaction
+[LEVEL3]303 - Social processes
+[LEVEL3]304 - Factors affecting social behavior
+[LEVEL3]305 - Groups of people
+[LEVEL3]306 - Culture and institutions
+[LEVEL3]307 - Statistics
+[LEVEL2]310 - Statistics
+[LEVEL3]310 - Collections of general statistics
+[LEVEL3]314 - General statistics of Europe
+[LEVEL3]315 - General statistics of Asia
+[LEVEL3]316 - General statistics of Africa
+[LEVEL3]317 - General statistics of North America
+[LEVEL3]318 - General statistics of South America
+[LEVEL3]319 - General statistics of Australasia, Pacific Ocean islands, Atlantic Ocean islands, Arctic islands, Antarctica
+[LEVEL2]320 - Political science
+[LEVEL3]320 - Political science
+[LEVEL3]321 - Systems of governments and states
+[LEVEL3]322 - Relation of state to organized groups and their members
+[LEVEL3]323 - Civil and political rights
+[LEVEL3]324 - The political process
+[LEVEL3]325 - International migration and colonization
+[LEVEL3]326 - Slavery and emancipation
+[LEVEL3]327 - International relations
+[LEVEL3]328 - The legislative process
+[LEVEL2]330 - Economics
+[LEVEL3]330 - Economics
+[LEVEL3]331 - Labor economics
+[LEVEL3]332 - Financial economics
+[LEVEL3]333 - Economics of land and energy
+[LEVEL3]334 - Cooperatives
+[LEVEL3]335 - Socialism and related systems
+[LEVEL3]336 - Public finance
+[LEVEL3]337 - International economics
+[LEVEL3]338 - Production
+[LEVEL3]339 - Macroeconomics and related topics
+[LEVEL2]340 - Law
+[LEVEL3]340 - Law
+[LEVEL3]341 - Law of nations
+[LEVEL3]342 - Constitutional and administrative law
+[LEVEL3]343 - Military, defense, public property, public finance, tax, commerce (trade), industrial law
+[LEVEL3]344 - Labor, social service, education, cultural law
+[LEVEL3]345 - Criminal law
+[LEVEL3]346 - Private law
+[LEVEL3]347 - Procedure and courts
+[LEVEL3]348 - Laws, regulations, cases
+[LEVEL3]349 - Law of specific jurisdictions, areas, socioeconomic regions, regional intergovernmental organizations
+[LEVEL2]350 - Public administration & military science
+[LEVEL3]350 - Public administration & military science
+[LEVEL3]351 - Public administration
+[LEVEL3]352 - General considerations of public administration
+[LEVEL3]353 - Specific fields of public administration
+[LEVEL3]354 - Public administration of economy and environment
+[LEVEL3]355 - Military science
+[LEVEL3]356 - Foot forces and warfare
+[LEVEL3]357 - Mounted forces and warfare
+[LEVEL3]358 - Air and other specialized forces and warfare; engineering and related services
+[LEVEL3]359 - Sea forces and warfare
+[LEVEL2]360 - Social problems & social services
+[LEVEL3]360 -  Social problems & services; associations
+[LEVEL3]361 - Social problems and services
+[LEVEL3]362 - Social problems of and services to groups of people
+[LEVEL3]363 - Other social problems and services
+[LEVEL3]364 - Criminology
+[LEVEL3]365 - Penal and related institutions
+[LEVEL3]366 - Secret associations and societies
+[LEVEL3]367 - General clubs
+[LEVEL3]368 - Insurance
+[LEVEL3]369 - Associations
+[LEVEL2]370 - Education
+[LEVEL3]370 - Education
+[LEVEL3]371 - Schools and their activities, special education
+[LEVEL3]372 - Primary education (elementary education)
+[LEVEL3]373 - Secondary education
+[LEVEL3]374 - Adult education
+[LEVEL3]375 - Curricula
+[LEVEL3]378 - Higher education (Tertiary education)
+[LEVEL3]379 - Public policy issues in education
+[LEVEL2]380 - Commerce, communications & transportation
+[LEVEL3]380 - Commerce, communications & transportation
+[LEVEL3]381 - Commerce (Trade)
+[LEVEL3]382 - International commerce (Foreign trade)
+[LEVEL3]383 - Postal communication
+[LEVEL3]384 - Communications
+[LEVEL3]385 - Railroad transportation
+[LEVEL3]386 - Inland waterway and ferry transportation
+[LEVEL3]387 - Water, air, space transportation
+[LEVEL3]388 - Transportation
+[LEVEL3]389 - Metrology and standardization
+[LEVEL2]390 - Customs, etiquette & folklore
+[LEVEL3]390 - Customs, etiquette & folklore
+[LEVEL3]391 - Costume and personal appearance
+[LEVEL3]392 - Customs of life cycle and domestic life
+[LEVEL3]393 - Death customs
+[LEVEL3]394 - General customs
+[LEVEL3]395 - Etiquette (Manners)
+[LEVEL3]398 - Folklore
+[LEVEL3]399 - Customs of war and diplomacy
+[LEVEL1]400 - Language
+[LEVEL2]400 - Language
+[LEVEL3]400 - Language
+[LEVEL3]401 - Philosophy and theory, international languages
+[LEVEL3]402 - Miscellany
+[LEVEL3]403 - Dictionaries, encyclopedias, concordances
+[LEVEL3]404 - Special topics of language
+[LEVEL3]405 - Serial publications
+[LEVEL3]406 - Organizations and management
+[LEVEL3]407 - Education, research, related topics
+[LEVEL3]408 - Groups of people
+[LEVEL3]409 - Geographic treatment and biography
+[LEVEL2]410 - Linguistics
+[LEVEL3]410 - Linguistics
+[LEVEL3]411 - Writing systems of standard forms of languages
+[LEVEL3]412 - Etymology of standard forms of languages
+[LEVEL3]413 - Dictionaries of standard forms of languages
+[LEVEL3]414 - Phonology and phonetics of standard forms of languages
+[LEVEL3]415 - Grammar of standard forms of languages
+[LEVEL3]417 - Dialectology and historical linguistics
+[LEVEL3]418 - Standard usage (Prescriptive linguistics)
+[LEVEL3]419 - Sign languages
+[LEVEL2]420 - English & Old English languages
+[LEVEL3]420 - English & Old English
+[LEVEL3]421 - Writing system, phonology, phonetics of standard English
+[LEVEL3]422 - Etymology of standard English
+[LEVEL3]423 - Dictionaries of standard English
+[LEVEL3]425 - Grammar of standard English
+[LEVEL3]427 - Historical and geographical variations, modern nongeographic variations of English
+[LEVEL3]428 - Standard English usage (Prescriptive linguistics)
+[LEVEL3]429 - Old English (Anglo-Saxon)
+[LEVEL2]430 - German & related languages
+[LEVEL3]430 - Germanic languages; German
+[LEVEL3]431 - Writing systems, phonology, phonetics of standard German
+[LEVEL3]432 - Etymology of standard German
+[LEVEL3]433 - Dictionaries of standard German
+[LEVEL3]435 - Grammar of standard German
+[LEVEL3]437 - Historical and geographic variations, modern nongeographic variations of German
+[LEVEL3]438 - Standard German usage (Prescriptive linguistics)
+[LEVEL3]439 - Other Germanic languages
+[LEVEL2]440 - French & related languages
+[LEVEL3]440 - Romance languages; French
+[LEVEL3]441 - Writing systems, phonology, phonetics of standard French
+[LEVEL3]442 - Etymology of standard French
+[LEVEL3]443 - Dictionaries of standard French
+[LEVEL3]445 - Grammar of standard French
+[LEVEL3]447 - Historical and geographic variations, modern nongeographic variations of French
+[LEVEL3]448 - Standard French usage (Prescriptive linguistics)
+[LEVEL3]449 - Occitan Catalan, Franco-Provençal
+[LEVEL2]450 - Italian, Romanian & related languages
+[LEVEL3]450 - Italian, Romanian & related languages
+[LEVEL3]451 - Writing systems, phonology, phonetics of standard Italian
+[LEVEL3]452 - Etymology of standard Italian
+[LEVEL3]453 - Dictionaries of standard Italian
+[LEVEL3]455 - Grammar of standard Italian
+[LEVEL3]457 - Historical and geographic variations, modern nongeographic variations of Italian
+[LEVEL3]458 - Standard Italian usage (Prescriptive linguistics)
+[LEVEL3]459 - Romanian, Rhaetian, Sardinian, Corsican
+[LEVEL2]460 - Spanish & Portuguese languages
+[LEVEL3]460 - Spanish & Portuguese languages
+[LEVEL3]461 - Writing systems, phonology, phonetics of standard Spanish
+[LEVEL3]462 - Etymology of standard Spanish
+[LEVEL3]463 - Dictionaries of standard Spanish
+[LEVEL3]465 - Grammar of standard Spanish
+[LEVEL3]467 - Historical and geographic variations, modern nongeographic variations of Spanish
+[LEVEL3]468 - Standard Spanish usage (Prescriptive linguistics)
+[LEVEL3]469 - Portuguese
+[LEVEL2]470 - Latin & Italic languages
+[LEVEL3]470 - Italic languages; Latin
+[LEVEL3]471 - Writing systems, phonology, phonetics of classical Latin
+[LEVEL3]472 - Etymology of classical Latin
+[LEVEL3]473 - Dictionaries of classical Latin
+[LEVEL3]475 - Grammar of classical Latin
+[LEVEL3]477 - Old, postclassical, Vulgar Latin
+[LEVEL3]478 - Classical Latin usage (Prescriptive linguistics)
+[LEVEL3]479 - Other Italic languages
+[LEVEL2]480 - Classical & modern Greek languages
+[LEVEL3]480 - Hellenic languages; classical Greek
+[LEVEL3]481 - Writing systems, phonology, phonetics of classical Greek
+[LEVEL3]482 - Etymology of classical Greek
+[LEVEL3]483 - Dictionaries of classical Greek
+[LEVEL3]485 - Grammar of classical Greek
+[LEVEL3]487 - Preclassical and postclassical Greek
+[LEVEL3]488 - Classical Greek usage (Prescriptive linguistics)
+[LEVEL3]489 - Other Hellenic languages
+[LEVEL2]490 - Other languages
+[LEVEL3]490 - Other languages
+[LEVEL3]491 - East Indo-European and Celtic languages
+[LEVEL3]492 - Afro-Asiatic languages
+[LEVEL3]493 - Non-Semitic Afro-Asiatic languages
+[LEVEL3]494 - Altic, Uralic, Hyperborean, Dravidian languages, miscellaneous languages of south Asia
+[LEVEL3]495 - Languages of East and Southeast Asia
+[LEVEL3]496 - African languages
+[LEVEL3]497 - North American native languages
+[LEVEL3]498 - South American native languages
+[LEVEL3]499 - Non-Austronesian languages of Oceania, Austronesian languages, miscellaneous languages
+[LEVEL1]500 - Science
+[LEVEL2]500 - Science
+[LEVEL3]500 - Natural sciences & mathematics
+[LEVEL3]501 - Philosophy and theory
+[LEVEL3]502 - Miscellany
+[LEVEL3]503 - Dictionaries, encyclopedias, concordances
+[LEVEL3]505 - Serial publications
+[LEVEL3]506 - Organizations and management
+[LEVEL3]507 - Education, research, related topics
+[LEVEL3]508 - Natural history
+[LEVEL3]509 - History, geographic treatment, biography
+[LEVEL2]510 - Mathematics
+[LEVEL3]510 - Mathematics
+[LEVEL3]511 - General principles of mathematics
+[LEVEL3]512 - Algebra
+[LEVEL3]513 - Arithmetic
+[LEVEL3]514 - Topology
+[LEVEL3]515 - Analysis
+[LEVEL3]516 - Geometry
+[LEVEL3]518 - Numerical analysis
+[LEVEL3]519 - Probabilities and applied mathematics
+[LEVEL2]520 - Astronomy
+[LEVEL3]520 - Astronomy & allied sciences
+[LEVEL3]521 - Celestial mechanics
+[LEVEL3]522 - Techniques, procedures, apparatus, equipment, materials
+[LEVEL3]523 - Specific celestial bodies and phenomena
+[LEVEL3]525 - Earth (Astronomical geography)
+[LEVEL3]526 - Mathematical geography
+[LEVEL3]527 - Celestial navigation
+[LEVEL3]528 - Ephemerides
+[LEVEL3]529 - Chronology
+[LEVEL2]530 - Physics
+[LEVEL3]530 - Physics
+[LEVEL3]531 - Classical mechanics
+[LEVEL3]532 - Fluid mechanics
+[LEVEL3]533 - Pneumatics (Gas mechanics)
+[LEVEL3]534 - Sound and related vibrations
+[LEVEL3]535 - Light and related radiation
+[LEVEL3]536 - Heat
+[LEVEL3]537 - Electricity and electronics
+[LEVEL3]538 - Magnetism
+[LEVEL3]539 - Modern physics
+[LEVEL2]540 - Chemistry
+[LEVEL3]540 - Chemistry & allied sciences
+[LEVEL3]541 - Physical chemistry
+[LEVEL3]542 - Techniques, procedures, apparatus, equipment, materials
+[LEVEL3]543 - Analytical chemistry
+[LEVEL3]546 - Inorganic chemistry
+[LEVEL3]547 - Organic chemistry
+[LEVEL3]548 - Crystallography
+[LEVEL3]549 - Mineralogy
+[LEVEL2]550 - Earth sciences & geology
+[LEVEL3]550 - Earth sciences
+[LEVEL3]551 - Geology, hydrology, meteorology
+[LEVEL3]552 - Petrology
+[LEVEL3]553 - Economic geology
+[LEVEL3]554 - Earth sciences of Europe
+[LEVEL3]555 - Earth sciences of Asia
+[LEVEL3]556 - Earth sciences of Africa
+[LEVEL3]557 - Earth sciences of North America
+[LEVEL3]558 - Earth sciences of South America
+[LEVEL3]559 - Earth sciences of Australasia, Pacific Ocean islands, Atlantic Ocean islands, Arctic islands, Antarctica, extraterrestrial worlds
+[LEVEL2]560 - Fossils & prehistoric life
+[LEVEL3]560 - Paleontology; paleozoology
+[LEVEL3]561 - Paleontology
+[LEVEL3]562 - Fossil invertebrates
+[LEVEL3]563 - Miscellaneous fossil marine and seashore invertebrates
+[LEVEL3]564 - Fossil Mollusca and Molluscoidea
+[LEVEL3]565 - Fossil Arthropoda
+[LEVEL3]566 - Fossil Chordata
+[LEVEL3]567 - Fossil cold-blooded vertebrates
+[LEVEL3]568 - Fossil Aves (birds)
+[LEVEL3]569 - Fossil Mammalia
+[LEVEL2]570 - Life sciences; biology
+[LEVEL3]570 - Life sciences; biology
+[LEVEL3]571 - Physiology and related subjects
+[LEVEL3]572 - Biochemistry
+[LEVEL3]573 - Specific physiological systems in animals, regional histology and physiology in animals
+[LEVEL3]574 - Not assigned or no longer used
+[LEVEL3]575 - Specific parts of and physiological systems in plants
+[LEVEL3]576 - Genetics and evolution
+[LEVEL3]577 - Ecology
+[LEVEL3]578 - Natural history of organisms and related subjects
+[LEVEL3]579 - Natural history of microorganisms, fungi, algae
+[LEVEL2]580 - Plants (Botany)
+[LEVEL3]580 - Plants (Botany)
+[LEVEL3]581 - Specific topics in natural history of plants
+[LEVEL3]582 - Plants noted for specific vegetative characteristics and flowers
+[LEVEL3]583 - Magnoliopsida (Dicotyledones)
+[LEVEL3]584 - Liliopsida (Monocotyledones)
+[LEVEL3]585 - Pinophyta (Gymnosperms)
+[LEVEL3]586 - Cryptogamia (Seedless plants)
+[LEVEL3]587 - Pteridophyta
+[LEVEL3]588 - Bryophyta
+[LEVEL2]590 - Animals (Zoology)
+[LEVEL3]590 - Animals (Zoology)
+[LEVEL3]591 - Specific topics in natural history of animals
+[LEVEL3]592 - Invertebrates
+[LEVEL3]593 - Miscellaneous marine and seashore invertebrates
+[LEVEL3]594 - Mollusca and Molluscoidea
+[LEVEL3]595 - Arthropoda
+[LEVEL3]596 - Chordata
+[LEVEL3]597 - Cold-blooded vertebrates
+[LEVEL3]598 - Aves (Birds)
+[LEVEL3]599 - Mammalia (Mammals)
+[LEVEL1]600 - Technology
+[LEVEL2]600 - Technology
+[LEVEL3]600 - Technology
+[LEVEL3]601 - Philosophy and theory
+[LEVEL3]602 - Miscellany
+[LEVEL3]603 - Dictionaries, encyclopedias, concordances
+[LEVEL3]604 - Technical drawing, hazardous materials technology; groups of people
+[LEVEL3]605 - Serial publications
+[LEVEL3]606 - Organizations
+[LEVEL3]607 - Education, research, related topics
+[LEVEL3]608 - Patents
+[LEVEL3]609 - History, geographic treatment, biography
+[LEVEL2]610 - Medicine & health
+[LEVEL3]610 - Medicine & health
+[LEVEL3]611 - Human anatomy, cytology, histology
+[LEVEL3]612 - Human physiology
+[LEVEL3]613 - Personal health and safety
+[LEVEL3]614 - Forensic medicine; incidence of injuries, wounds, disease; public preventive medicine
+[LEVEL3]615 - Pharmacology and therapeutics
+[LEVEL3]616 - Diseases
+[LEVEL3]617 - Surgery, regional medicine, dentistry, ophthalmology, otology, audiology
+[LEVEL3]618 - Gynecology, obstetrics, pediatrics, geriatrics
+[LEVEL2]620 - Engineering
+[LEVEL3]620 - Engineering & allied operations
+[LEVEL3]621 - Applied physics
+[LEVEL3]622 - Mining and related operations
+[LEVEL3]623 - Military and nautical engineering
+[LEVEL3]624 - Civil engineering
+[LEVEL3]625 - Engineering of railroads, roads
+[LEVEL3]627 - Hydraulic engineering
+[LEVEL3]628 - Sanitary engineering
+[LEVEL3]629 - Other branches of engineering
+[LEVEL2]630 - Agriculture
+[LEVEL3]630 - Agriculture & related technologies
+[LEVEL3]631 - Specific techniques; apparatus, equipment, materials
+[LEVEL3]632 - Plant injuries, diseases, pests
+[LEVEL3]633 - Field and plantation crops
+[LEVEL3]634 - Orchards, fruits, forestry
+[LEVEL3]635 - Garden crops (Horticulture)
+[LEVEL3]636 - Animal husbandry
+[LEVEL3]637 - Processing dairy and related products
+[LEVEL3]638 - Insect culture
+[LEVEL3]639 - Hunting, fishing, conservation, related technologies
+[LEVEL2]640 - Home & family management
+[LEVEL3]640 - Home & family management
+[LEVEL3]641 - Food and drink
+[LEVEL3]642 - Meals and table service
+[LEVEL3]643 - Housing and household equipment
+[LEVEL3]644 - Household utilities
+[LEVEL3]645 - Household furnishings
+[LEVEL3]646 - Sewing, clothing, management of personal and family life
+[LEVEL3]647 - Management of public households (Institutional housekeeping)
+[LEVEL3]648 - Housekeeping
+[LEVEL3]649 - Child rearing; home care of people with disabilities and illnesses
+[LEVEL2]650 - Management & public relations
+[LEVEL3]650 - Management & auxiliary services
+[LEVEL3]651 - Office services
+[LEVEL3]652 - Processes of written communication
+[LEVEL3]653 - Shorthand
+[LEVEL3]657 - Accounting
+[LEVEL3]658 - General management
+[LEVEL3]659 - Advertising and public relations
+[LEVEL2]660 - Chemical engineering
+[LEVEL3]660 - Chemical engineering
+[LEVEL3]661 - Technology of industrial chemicals
+[LEVEL3]662 - Technology of explosives, fuels, related products
+[LEVEL3]663 - Beverage technology
+[LEVEL3]664 - Food technology
+[LEVEL3]665 - Technology of industrial oils, fats, waxes, gases
+[LEVEL3]666 - Ceramic and allied technologies
+[LEVEL3]667 - Cleaning, color, coating, related technologies
+[LEVEL3]668 - Technology of other organic products
+[LEVEL3]669 - Metallurgy
+[LEVEL2]670 - Manufacturing
+[LEVEL3]670 - Manufacturing
+[LEVEL3]671 - Metalworking processes and primary metal products
+[LEVEL3]672 - Iron, steel, other iron alloys
+[LEVEL3]673 - Nonferrous metals
+[LEVEL3]674 - Lumber processing, wood products, cork
+[LEVEL3]675 - Leather and fur processing
+[LEVEL3]676 - Pulp and paper technology
+[LEVEL3]677 - Textiles
+[LEVEL3]678 - Elastomers and elastomer products
+[LEVEL3]679 - Other products of specific kinds of materials
+[LEVEL2]680 - Manufacture for specific uses
+[LEVEL3]680 - Manufacture for specific uses
+[LEVEL3]681 - Precision instruments and other devices
+[LEVEL3]682 - Small forge work (Blacksmithing)
+[LEVEL3]683 - Hardware and household appliances
+[LEVEL3]684 - Furnishings and home workshops
+[LEVEL3]685 - Leather and fur goods, and related products
+[LEVEL3]686 - Printing and related activities
+[LEVEL3]687 - Clothing and accessories
+[LEVEL3]688 - Other final products, and packaging technology
+[LEVEL2]690 - Building & construction
+[LEVEL3]690 - Buildings
+[LEVEL3]691 - Building materials
+[LEVEL3]692 - Auxiliary construction practices
+[LEVEL3]693 - Construction in specific types of materials and for specific purposes
+[LEVEL3]694 - Wood construction
+[LEVEL3]695 - Roof covering
+[LEVEL3]696 - Utilities
+[LEVEL3]697 - Heating, ventilating, air-conditioning engineering
+[LEVEL3]698 - Detail finishin
+[LEVEL1]700 - Arts & recreation
+[LEVEL2]700 - Arts
+[LEVEL3]700 - The arts; fine & decorative arts
+[LEVEL3]701 - Philosophy and theory of fine and decorative arts
+[LEVEL3]702 - Miscellany of fine and decorative arts
+[LEVEL3]703 - Dictionaries, encyclopedias, concordances of fine and decorative arts
+[LEVEL3]704 - Special topics in fine and decorative arts
+[LEVEL3]705 - Serial publications of fine and decorative arts
+[LEVEL3]706 - Organizations and management of fine and decorative arts
+[LEVEL3]707 - Education, research, related topics of fine and decorative arts
+[LEVEL3]708 - Galleries, museums, private collections of fine and decorative arts
+[LEVEL3]709 - History, geographic treatment, biography
+[LEVEL2]710 - Landscaping & area planning
+[LEVEL3]710 - Civic & landscape art
+[LEVEL3]711 - Area planning (Civic art)
+[LEVEL3]712 - Landscape architecture (Landscape design)
+[LEVEL3]713 - Landscape architecture of trafficways
+[LEVEL3]714 - Water features in landscape architecture
+[LEVEL3]715 - Woody plants in landscape architecture
+[LEVEL3]716 - Herbaceous plants in landscape architecture
+[LEVEL3]717 - Structures in landscape architecture
+[LEVEL3]718 - Landscape design of cemeteries
+[LEVEL3]719 - Natural landscapes
+[LEVEL2]720 - Architecture
+[LEVEL3]720 - Architecture
+[LEVEL3]721 - Architectural materials and structural elements
+[LEVEL3]722 - Architecture from earliest times to c. 300
+[LEVEL3]723 - Architecture from c. 300 to 1399
+[LEVEL3]724 - Architecture from 1400
+[LEVEL3]725 - Public structures
+[LEVEL3]726 - Buildings for religious and related purposes
+[LEVEL3]727 - Buildings for educational and research purposes
+[LEVEL3]728 - Residential and related buildings
+[LEVEL3]729 - Design and decoration of structures and accessories
+[LEVEL2]730 - Sculpture, ceramics & metalwork
+[LEVEL3]730 - Plastic arts; sculpture
+[LEVEL3]731 - Processes, forms, subjects of sculpture
+[LEVEL3]732 - Sculpture from earliest times to c. 500, sculpture of non-literate peoples
+[LEVEL3]733 - Greek, Etruscan, Roman sculpture
+[LEVEL3]734 - Sculpture from ca 500 to 1399
+[LEVEL3]735 - Sculpture from 1400
+[LEVEL3]736 - Carving and carvings
+[LEVEL3]737 - Numismatics and sigillography
+[LEVEL3]738 - Ceramic arts
+[LEVEL3]739 - Art metalwork
+[LEVEL2]740 - Drawing & decorative arts
+[LEVEL3]740 - Drawing & decorative arts
+[LEVEL3]741 - Drawing and drawings
+[LEVEL3]742 - Perspective in drawing
+[LEVEL3]743 - Drawing and drawings by subject
+[LEVEL3]745 - Decorative arts
+[LEVEL3]746 - Textile arts
+[LEVEL3]747 - Interior decoration
+[LEVEL3]748 - Glass
+[LEVEL3]749 - Furniture and accessories
+[LEVEL2]750 - Painting
+[LEVEL3]750 - Painting & paintings
+[LEVEL3]751 - Techniques, procedures, apparatus, equipment, materials, forms
+[LEVEL3]752 - Color
+[LEVEL3]753 - Symbolism, allegory, mythology, legend
+[LEVEL3]754 - Genre paintings
+[LEVEL3]755 - Religion
+[LEVEL3]757 - Human figures
+[LEVEL3]758 - Nature, architectural subjects and cityscapes, other specific subjects
+[LEVEL3]759 - History, geographic treatment, biography
+[LEVEL2]760 - Graphic arts
+[LEVEL3]760 - Graphic arts; printmaking & prints
+[LEVEL3]761 - Relief processes (Block printing)
+[LEVEL3]763 - Lithographic processes (Planographic processes)
+[LEVEL3]764 - Chromolithography and serigraphy
+[LEVEL3]765 - Metal engraving
+[LEVEL3]766 - Mezzotinting, aquatinting, and related processes
+[LEVEL3]767 - Etching and drypoint
+[LEVEL3]769 - Prints
+[LEVEL2]770 - Photography & computer art
+[LEVEL3]770 - Photography, photographs & computer art
+[LEVEL3]771 - Techniques, procedures, apparatus, equipment, materials
+[LEVEL3]772 - Metallic salt processes
+[LEVEL3]773 - Pigment processes of printing
+[LEVEL3]776 - Computer art (Digital art)
+[LEVEL3]777 - Cinematography and Videography
+[LEVEL3]778 - Specific fields and special kinds of photography
+[LEVEL3]779 - Photographic images
+[LEVEL2]780 - Music
+[LEVEL3]780 - Music
+[LEVEL3]781 - General principles and musical forms
+[LEVEL3]782 - Vocal music
+[LEVEL3]783 - Music for single voices
+[LEVEL3]784 - Instruments and Instrumental ensembles and their music
+[LEVEL3]785 - Ensembles with only one instrument per part
+[LEVEL3]786 - Keyboard, mechanical, electrophonic, percussion instruments
+[LEVEL3]787 - Stringed instruments (Chordophones)
+[LEVEL3]788 - Wind instruments (Aerophones)
+[LEVEL2]790 - Sports, games & entertainment
+[LEVEL3]790 - Recreational & performing arts
+[LEVEL3]791 - Public performances
+[LEVEL3]792 - Stage presentations
+[LEVEL3]793 - Indoor games and amusements
+[LEVEL3]794 - Indoor games of skill
+[LEVEL3]795 - Games of chance
+[LEVEL3]796 - Athletic and outdoor sports and games
+[LEVEL3]797 - Aquatic and air sports
+[LEVEL3]798 - Equestrian sports and animal racing
+[LEVEL3]799 - Fishing, hunting, shooting
+[LEVEL1]800 - Literature
+[LEVEL2]800 - Literature, rhetoric & criticism
+[LEVEL3]800 - Literature & rhetoric
+[LEVEL3]801 - Philosophy and theory
+[LEVEL3]802 - Miscellany
+[LEVEL3]803 - Dictionaries, encyclopedias, concordances
+[LEVEL3]805 - Serial publications
+[LEVEL3]806 - Organizations and management
+[LEVEL3]807 - Education, research, related topics
+[LEVEL3]808 - Rhetoric and collections of literary texts from more than two literatures
+[LEVEL3]809 - History, description, critical appraisal of more than two literatures
+[LEVEL2]810 - American literature in English
+[LEVEL3]810 - American literature in English
+[LEVEL3]811 - American poetry in English
+[LEVEL3]812 - American drama in English
+[LEVEL3]813 - American fiction in English
+[LEVEL3]814 - American essays in English
+[LEVEL3]815 - American speeches in English
+[LEVEL3]816 - American letters in English
+[LEVEL3]817 - American humor and satire in English
+[LEVEL3]818 - American miscellaneous writings in English
+[LEVEL2]820 - English & Old English literatures
+[LEVEL3]820 - English & Old English literatures
+[LEVEL3]821 - English Poetry
+[LEVEL3]822 - English drama
+[LEVEL3]823 - English fiction
+[LEVEL3]824 - English essays
+[LEVEL3]825 - English speeches
+[LEVEL3]826 - English letters
+[LEVEL3]827 - English humor and satire
+[LEVEL3]828 - English miscellaneous writings
+[LEVEL3]829 - Old English (Anglo-Saxon) literature
+[LEVEL2]830 - German & related literatures
+[LEVEL3]830 - Literatures of Germanic languages
+[LEVEL3]831 - German poetry
+[LEVEL3]832 - German drama
+[LEVEL3]833 - German fiction
+[LEVEL3]834 - German essays
+[LEVEL3]835 - German speeches
+[LEVEL3]836 - German letters
+[LEVEL3]837 - German humor and satire
+[LEVEL3]838 - German miscellaneous writings
+[LEVEL3]839 - Other Germanic literatures
+[LEVEL2]840 - French & related literatures
+[LEVEL3]840 - Literatures of Romance languages
+[LEVEL3]841 - French poetry
+[LEVEL3]842 - French drama
+[LEVEL3]843 - French fiction
+[LEVEL3]844 - French essays
+[LEVEL3]845 - French speeches
+[LEVEL3]846 - French letters
+[LEVEL3]847 - French humor and satire
+[LEVEL3]848 - French miscellaneous writings
+[LEVEL3]849 - Occitan, Catalan, Franco-Provençal literatures
+[LEVEL2]850 - Italian, Romanian & related literatures
+[LEVEL3]850 - Italian, Romanian & related literatures
+[LEVEL3]851 - Italian poetry
+[LEVEL3]852 - Italian drama
+[LEVEL3]853 - Italian fiction
+[LEVEL3]854 - Italian essays
+[LEVEL3]855 - Italian speeches
+[LEVEL3]856 - Italian letters
+[LEVEL3]857 - Italian humor and satire
+[LEVEL3]858 - Italian miscellaneous writings
+[LEVEL3]859 - Literatures of Romanian, Rhaetian, Sardinian, Corsican languages
+[LEVEL2]860 - Spanish & Portuguese literatures
+[LEVEL3]860 - Spanish & Portuguese literatures
+[LEVEL3]861 - Spanish poetry
+[LEVEL3]862 - Spanish drama
+[LEVEL3]863 - Spanish fiction
+[LEVEL3]864 - Spanish essays
+[LEVEL3]865 - Spanish speeches
+[LEVEL3]866 - Spanish letters
+[LEVEL3]867 - Spanish humor and satire
+[LEVEL3]868 - Spanish miscellaneous writings
+[LEVEL3]869 - Literatures of Portuguese and Galician languages
+[LEVEL2]870 - Latin & Italic literatures
+[LEVEL3]870 - Italic literatures; Latin literature
+[LEVEL3]871 - Latin poetry
+[LEVEL3]872 - Latin dramatic poetry and drama
+[LEVEL3]873 - Latin epic poetry and fiction
+[LEVEL3]874 - Latin lyric poetry
+[LEVEL3]875 - Latin speeches
+[LEVEL3]876 - Latin letters
+[LEVEL3]877 - Latin humor and satire
+[LEVEL3]878 - Latin miscellaneous writings
+[LEVEL3]879 - Literatures of other Italic languages
+[LEVEL2]880 - Classical & modern Greek literatures
+[LEVEL3]880 - Hellenic literatures; classical Greek
+[LEVEL3]881 - Classical Greek poetry
+[LEVEL3]882 - Classical Greek drama
+[LEVEL3]883 - Classical Greek epic poetry and fiction
+[LEVEL3]884 - Classical Greek lyric poetry
+[LEVEL3]885 - Classical Greek speeches
+[LEVEL3]886 - Classical Greek letters
+[LEVEL3]887 - Classical Greek humor and satire
+[LEVEL3]888 - Classical Greek miscellaneous writings
+[LEVEL3]889 - Modern Greek literature
+[LEVEL2]890 - Other literatures
+[LEVEL3]890 - Literatures of other languages
+[LEVEL3]891 - East Indo-European and Celtic literatures
+[LEVEL3]892 - Afro-Asiatic literatures
+[LEVEL3]893 - Non-Semitic Afro-Asiatic literatures
+[LEVEL3]894 - Literatures of Altaic, Uralic, Hyperborean, Dravidian languages; literatures of miscellaneous languages of South Asia
+[LEVEL3]895 - Literatures of East and Southeast Asia
+[LEVEL3]896 - African literatures
+[LEVEL3]897 - Literatures of North American native languages
+[LEVEL3]898 - Literatures of South American native languages
+[LEVEL3]899 - Literatures of non-Austronesian languages of Oceania, of Austronesian languages, of miscellaneous languages
+[LEVEL1]900 - History & geography
+[LEVEL2]900 - History
+[LEVEL3]900 - History & geography
+[LEVEL3]901 - Philosophy and theory of history
+[LEVEL3]902 - Miscellany of history
+[LEVEL3]903 - Dictionaries, encyclopedias, concordances of history
+[LEVEL3]904 - Collected accounts of events
+[LEVEL3]905 - Serial publications of history
+[LEVEL3]906 - Organizations and management of history
+[LEVEL3]907 - Education, research, related topics of history
+[LEVEL3]908 - History with respect to groups of people
+[LEVEL3]909 - World history
+[LEVEL2]910 - Geography & travel
+[LEVEL3]910 - Geography & travel
+[LEVEL3]911 - Historical geography
+[LEVEL3]912 - Graphic representations of surface of earth and of extraterrestrial worlds
+[LEVEL3]913 - Geography of and travel in the ancient world
+[LEVEL3]914 - Geography of and travel in Europe
+[LEVEL3]915 - Geography of and travel in Asia
+[LEVEL3]916 - Geography of and travel in Africa
+[LEVEL3]917 - Geography of and travel in North America
+[LEVEL3]918 - Geography of and travel in South America
+[LEVEL3]919 - Geography of and travel in Australasia, Pacific Ocean islands, Atlantic Ocean islands, Arctic islands, Antarctica, and on extraterrestrial worlds
+[LEVEL2]920 - Biography & genealogy
+[LEVEL3]920 - Biography, genealogy & insignia
+[LEVEL3]929 - Genealogy, names, insignia
+[LEVEL2]930 - History of ancient world (to ca. 499)
+[LEVEL3]930 - History of ancient world to ca. 499
+[LEVEL3]931 - China to 420
+[LEVEL3]932 - Egypt to 640
+[LEVEL3]933 - Palestine to 70
+[LEVEL3]934 - South Asia to 647
+[LEVEL3]935 - Mesopotamia to 637 and Iranian Plateau to 637
+[LEVEL3]936 - Europe north and west of Italian Peninsula to c. 499
+[LEVEL3]937 - Italian Peninsula to 476 and adjacent territories to 476
+[LEVEL3]938 - Greece to 323
+[LEVEL3]939 - Other parts of ancient world
+[LEVEL2]940 - History of Europe
+[LEVEL3]940 - History of Europe
+[LEVEL3]941 - British Isles
+[LEVEL3]942 - England and Wales
+[LEVEL3]943 - Germany and neighboring central European countries
+[LEVEL3]944 - France and Monaco
+[LEVEL3]945 - Italy, San Marino, Vatican City, Malta
+[LEVEL3]946 - Spain, Andorra, Gibraltar, Portugal
+[LEVEL3]947 - Russia and neighboring east European countries
+[LEVEL3]948 - Scandinavia
+[LEVEL3]949 - Other parts of Europe
+[LEVEL2]950 - History of Asia
+[LEVEL3]950 - History of Asia; Far East
+[LEVEL3]951 - China and adjacent areas
+[LEVEL3]952 - Japan
+[LEVEL3]953 - Arabian Peninsula and adjacent areas
+[LEVEL3]954 - India and neighboring south Asian countries;
+[LEVEL3]955 - Iran
+[LEVEL3]956 - Middle East (Near East)
+[LEVEL3]957 - Siberia (Asiatic Russia)
+[LEVEL3]958 - Central Asia
+[LEVEL3]959 - Southeast Asia
+[LEVEL2]960 - History of Africa
+[LEVEL3]960 - History of Africa
+[LEVEL3]961 - Tunisia and Libya
+[LEVEL3]962 - Egypt, Sudan, South Sudan
+[LEVEL3]963 - Ethiopia and Eritrea
+[LEVEL3]964 - Morocco, Ceuta, Melilla Western Sahara, Canary Islands
+[LEVEL3]965 - Algeria
+[LEVEL3]966 - West Africa and offshore islands
+[LEVEL3]967 - Central Africa and offshore islands
+[LEVEL3]968 - South Africa & southern Africa
+[LEVEL3]969 - South Indian Ocean islands
+[LEVEL2]970 - History of North America
+[LEVEL3]970 - History of North America
+[LEVEL3]971 - Canada
+[LEVEL3]972 - Mexico, Central America, West Indies, Bermuda
+[LEVEL3]973 - United States
+[LEVEL3]974 - Northeastern United States (New England and Middle Atlantic states)
+[LEVEL3]975 - Southeastern United States (South Atlantic states)
+[LEVEL3]976 - South central United States
+[LEVEL3]977 - North central United States
+[LEVEL3]978 - Western United States
+[LEVEL3]979 - Great Basin and Pacific Slope region of United States
+[LEVEL2]980 - History of South America
+[LEVEL3]980 - History of South America
+[LEVEL3]981 - Brazil
+[LEVEL3]982 - Argentina
+[LEVEL3]983 - Chile
+[LEVEL3]984 - Bolivia
+[LEVEL3]985 - Peru
+[LEVEL3]986 - Colombia and Ecuador
+[LEVEL3]987 - Venezuela
+[LEVEL3]988 - Guiana
+[LEVEL3]989 - Paraguay and Uruguay
+[LEVEL2]990 - History of other areas
+[LEVEL3]990 - History of other areas
+[LEVEL3]993 - New Zealand
+[LEVEL3]994 - Australia
+[LEVEL3]995 - New Guinea and neighboring countries of Melanesia
+[LEVEL3]996 - Polynesia and other Pacific Ocean islands
+[LEVEL3]997 - Atlantic Ocean islands
+[LEVEL3]998 - Arctic islands and Antarctica
+[LEVEL3]999 - Extraterrestrial worlds
